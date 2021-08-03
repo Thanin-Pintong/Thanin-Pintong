@@ -2,8 +2,8 @@
 
 ## [CakePHP on Heroku](https://github.com/Thanin-Pintong/CakePHP)
 
-The minimal basic of CakePHP can be used to further develop large projects with PHP web application.
-There are several custom codes and plugins that are pre-configured such as
+The minimal basic of CakePHP Framework can be used to further develop large projects with PHP web application.
+There are several custom codes and plugins that are ready pre-configured such as
   - DebugKit enabled.
   - etc.
 
